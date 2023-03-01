@@ -1,6 +1,6 @@
 # DZ25
-Homework for 25 lesson
 Project Structure
+Homework for 25 lesson
 
 Цели практической работы
 Приобрести понимание разбиения проекта на исходные и заголовочные файлы.
